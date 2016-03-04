@@ -1,5 +1,6 @@
-print ("Helloo world")
-print ("goodbye")
-print ("hello again")
-print(yo!)
-print (yo again!)
+
+print ("Helloo world");
+print ("goodbye");
+print ("hello again");
+print(yo!);
+print (yo again!);
